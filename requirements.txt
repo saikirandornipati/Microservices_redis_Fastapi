@@ -12,3 +12,4 @@ tiktoken==0.4.0
 # uncomment to use instructor embeddings
 # InstructorEmbedding==1.0.1
 # sentence-transformers==2.2.2
+aiohttp>=3.12.14 # not directly required, pinned by Snyk to avoid a vulnerability
